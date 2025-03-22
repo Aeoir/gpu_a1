@@ -1,4 +1,3 @@
-# GPU_K4B23
 # GPU_Assignment
 
 # Features
